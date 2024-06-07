@@ -1,3 +1,7 @@
+# AIUncensored
+
+It seems to use three models, with `llama-3-70b` as the default one.
+
 ## llama-3-70b
 
 ```text
